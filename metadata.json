@@ -1,0 +1,8 @@
+{
+  "name": "Anondo Protidin - AI Mentor",
+  "description": "একটি ওয়ার্ল্ড-ক্লাস মেন্টরিং অ্যাপ যা ইসলাম ও বিজ্ঞানের সমন্বয়ে আপনাকে প্রতিদিনের হ্যাপিনেস রুটিন শিখাবে।",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
